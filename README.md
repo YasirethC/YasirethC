@@ -1,122 +1,101 @@
-<h1 align="center">Hola 👋  soy Yasireth  / YasirethC ✨ </h1> 
+<h1 align="center">Hola 👋 soy Yasireth / YasirethC ✨</h1>
 
 <p align="left">
-<a href="https://www.tiktok.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>
-<a href="https://linkedin.com/in/zuanny-yasireth-coox-6b2168329" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-<a href="https://fb.com/Zuanny Ystj" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Zuanny Ystj"  /></a>
-<a href = "mailto:yasireth2004@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@YasirethCoox"  /></a>
-  </p>
-<br>
-<h2>Sobre mi 😃</h2>
-<!--Intro start-->
+<a href="https://linkedin.com/in/zuanny-yasireth-coox-6b2168329" target="blank">
+<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<p align="left">
-🎓 INGENIERO EN SISTEMAS COMPUTACIONALES 
+<a href="https://fb.com/Zuanny Ystj" target="blank">
+<img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
 
-
-
-📫 Contacto: **yasireth2004@gmail.com**
-<!--Intro end-->
-  </p>
-<br>
-
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
-<!--tech stack icons-->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c#,c,java,php,dart,flutter,py,angular,css,html,js,nodejs,mysql,firebase,git,github,docker,materialui,postman,vscode,bash,angular,react,ai,ps&perline=12" />
-  </a>
+<a href="mailto:yasireth2004@gmail.com" target="blank">
+<img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
+
 <br>
-<!-------------------------->
+
+<h2>Sobre mí 😃</h2>
+
+<p align="left">
+🎓 Estudiante universitaria de <b>Ingeniería en Sistemas Computacionales</b><br>
+💻 Apasionada por el desarrollo de software y el aprendizaje de nuevas tecnologías<br>
+🚀 Actualmente preparándome para realizar mi residencia profesional<br>
+🤝 Me gusta trabajar en equipo y adaptarme a nuevos retos<br>
+🌍 Nivel de inglés: <b>B1 (intermedio)</b>
+</p>
+
+<br>
+
+<h2>Tecnologías conocidas 👩🏻‍💻</h2>
+
+<p align="left">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=androidstudio,c#,c,java,php,dart,flutter,py,angular,css,html,js,nodejs,mysql,firebase,git,github,docker,materialui,postman,vscode,bash,react,ai,ps&perline=12" />
+</a>
+</p>
+
+<br>
+
 <div id="proyectos">
-<h2 >Algunos proyectos👨🏻‍💻</h2>
+<h2>Proyectos 👨🏻‍💻</h2>
 
-<table align="left" >
-<tr border="none">
-  <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/rISmdhlhOPM" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-<td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/fiUkA2OZQjs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/fiUkA2OZQjs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/ProyectoNotificaciones" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-  
-  <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/py31Y1Ku4Es" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/py31Y1Ku4Es" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/MiChatGPT" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-
-   <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/FbQtooM3UIs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/traductorchatgpt.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/FbQtooM3UIs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/MiTraductor" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-  
-</tr>
-</table>
-  </div>
-<br>
-<br><br>
-<br>
-<br><br><br>
-<br><br>
-
-
-<h2>GitHub :octocat:</h2>
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
 <table align="left">
 <tr border="none">
-<td width="60%" align="center">
 
-<!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
-  <br></br> -->
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" /> 
+<td width="50%" align="center">
+<p align="center">
+<img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp" alt="PROYECTO" />
+</p>
+
+<p align="center">
+<a href="https://github.com/unsimpledev" target="blank">
+<img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+<b>Maritlali</b><br>
+Sistema desarrollado como proyecto académico enfocado en la organización y gestión de información.
 </td>
 
-<td width="40%" align="center">
+<td width="50%" align="center">
+<p align="center">
+<img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp" alt="PROYECTO" />
+</p>
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+<p align="center">
+<a href="https://github.com/unsimpledev" target="blank">
+<img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
 
-  </td>
+<b>Herbolario</b><br>
+Aplicación desarrollada para la administración y consulta de productos naturales.
+</td>
+
 </tr>
 </table>
-<!--- stats (end) -->
 
-<!--- trophy (start) -->
-<div align=left>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=unsimpledev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
 </div>
-<!--- trophy (start) -->
 
+<br><br><br><br><br><br><br><br>
 
-</p>        
+<h2>GitHub :octocat:</h2>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&layout=compact" />
+</p>
+
+<br>
+
+<h2>Objetivo profesional 🎯</h2>
+
+<p align="left">
+Mi objetivo es seguir desarrollándome como programadora, aprender nuevas tecnologías y participar en proyectos que me permitan adquirir experiencia profesional y crecer dentro del área de desarrollo de software.
+</p>
 <!--- stats (end) -->
