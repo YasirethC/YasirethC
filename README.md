@@ -46,7 +46,7 @@
 
 <td width="50%" align="center">
 <p align="center">
-<img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp" alt="PROYECTO" />
+
 </p>
 
 <p align="center">
@@ -59,7 +59,7 @@ Sistema desarrollado como proyecto académico enfocado en la organización y ges
 
 <td width="50%" align="center">
 <p align="center">
-<img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp" alt="PROYECTO" />
+
 </p>
 
 <p align="center">
