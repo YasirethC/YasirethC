@@ -30,10 +30,10 @@
 
 <h2>Tecnologías conocidas 👩🏻‍💻</h2>
 
+<h2>Tecnologías conocidas 👩🏻‍💻</h2>
+
 <p align="left">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=androidstudio,c#,c,java,php,dart,flutter,cs,py,angular,css,html,js,nodejs,mysql,firebase,git,github,docker,materialui,postman,vscode,bash,react,ai,ps&perline=12" />
-</a>
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,nodejs,mysql,git,github,vscode,androidstudio,flutter,dart,firebase,docker,postman,angular,php,c,cs&perline=12" />
 </p>
 
 <br>
