@@ -51,7 +51,7 @@
 
 <p align="center">
 <a href="https://maritlali.com/" target="blank">
-<img align="center" src="Documentos/maritlali02.png" />
+<img align="center" src="[Documentos/maritlali02.png](https://itescamedu-my.sharepoint.com/:i:/g/personal/8448_itescam_edu_mx/IQAa0YbEUNmtRY3dbPJeNOoHASm-FS5WqmkWvXiQSrs4JTI?e=92MJQh)" />
 </a>
 </p>
 
