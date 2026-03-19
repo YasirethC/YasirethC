@@ -50,9 +50,7 @@
 </p>
 
 <p align="center">
-<a href="https://maritlali.com/" target="blank">
-<img align="center" src="[Documentos/maritlali02.png](https://itescamedu-my.sharepoint.com/:i:/g/personal/8448_itescam_edu_mx/IQAa0YbEUNmtRY3dbPJeNOoHASm-FS5WqmkWvXiQSrs4JTI?e=92MJQh)" />
-</a>
+
 </p>
 
 <b>Maritlali</b><br>
@@ -65,9 +63,7 @@ Sistema desarrollado como proyecto académico enfocado en la organización y ges
 </p>
 
 <p align="center">
-<a href="https://github.com/unsimpledev" target="blank">
-<img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+
 </p>
 
 <b>Herbolario</b><br>
