@@ -31,7 +31,7 @@
 <h2>Tecnologías conocidas 👩🏻‍💻</h2>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,nodejs,mysql,git,github,vscode,androidstudio,flutter,dart,firebase,docker,postman,angular,php,c,cs&perline=12" />
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,nodejs,mysql,git,github,vscode,androidstudio,flutter,dart,firebase,docker,postman,angular,php,c,cs,mongodb&perline=12" />
 </p>
 
 <br>
